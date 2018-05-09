@@ -28,7 +28,7 @@
     <artifactId>ui.apps</artifactId>
     <packaging>bundle</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sling-contact-list</name>
+    <name>aem-training contact</name>
     <description>Contact List - Apache Sling Application</description>
     <build>
         <plugins>

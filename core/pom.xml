@@ -30,7 +30,7 @@
     <packaging>bundle</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>contacts-core</name>
-    <description>com.xicojunior - contacts-core</description>
+    <description>aem-training - contacts-core</description>
     <build>
         <plugins>
             <plugin>
