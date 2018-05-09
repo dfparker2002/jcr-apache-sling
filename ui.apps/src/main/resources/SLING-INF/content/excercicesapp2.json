@@ -1,0 +1,8 @@
+{
+    "jcr:primaryType" : "nt:unstructured",
+    "sling:resourceType" : "aem-training-excercices/ex2",
+    "excercices" : {
+    	"jcr:primaryType" : "nt:unstructured"
+    }
+    
+}
