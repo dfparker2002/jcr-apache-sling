@@ -21,10 +21,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>parent</artifactId>
-        <groupId>com.xicojunior</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <groupId>aem-training</groupId>
+        <artifactId>jcr-apache-sling</artifactId>
     </parent>
-    <groupId>com.xicojunior</groupId>
+        <groupId>aem-training</groupId>
     <artifactId>ui.apps</artifactId>
     <packaging>bundle</packaging>
     <version>0.0.1-SNAPSHOT</version>
